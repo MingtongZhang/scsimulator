@@ -15,3 +15,8 @@ class Eye{
 		this.owner=a;
 	}
 }
+
+class Mine {
+	Agent owner;
+	double progress;
+}
