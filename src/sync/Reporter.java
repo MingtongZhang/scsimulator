@@ -6,6 +6,7 @@ import javax.swing.*;
 
 import sync.Reporter.lineblock;
 //aaaaa
+//bbbb
 
 public class Reporter extends Thread{
 	omoteworld wd;
